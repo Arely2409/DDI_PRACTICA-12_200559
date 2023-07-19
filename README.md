@@ -9,6 +9,6 @@
   <h2 align="center">ARELY AGUILAR FARIAS M-200559</h2>
   <h3 align="center">Desarrollo de aplicacion de Alexa "Hola Mundo"</h3>
   <h5 align="center">Se creó una aplicación de Alexa en la cual solo decia el mensaje de "Hola Mundo", al igual se hicieron modificaciones donde saludaba a una persona en específico</h5>
-  <h3 align="center">Fecha de entrega: 02/Junio/2023</h3>
+  <h3 align="center">Fecha de entrega: 25/Mayo/2023</h3>
   <h3 align="center">"Práctica en equipo"</h3>
 </P>
